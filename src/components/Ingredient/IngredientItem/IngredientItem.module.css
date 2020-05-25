@@ -1,0 +1,7 @@
+.IngredientItem {
+    width: 25%;
+}
+
+.IngredientItem img {
+    max-width: 70%;
+}

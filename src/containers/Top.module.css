@@ -1,0 +1,27 @@
+.Section1 {
+    margin-top: 100px;
+    line-height: 250px;
+    height: 250px;
+    background-color: #FDF5E6;
+}
+
+.Section1 span {
+    vertical-align: middle;
+}
+
+.Section3 {
+    padding: 40px 0;
+    background-color: #FDF5E6;
+}
+
+.Section4 {
+    background-color: #FFF5EE;
+}
+
+.Section4 .Details {
+    margin: auto;
+}
+
+.Section4 .Details > p {
+    margin: 50px 0;
+}
