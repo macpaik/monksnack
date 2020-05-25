@@ -70,8 +70,8 @@ const Top = () => {
           <div className={[styles.Details, 'col', 'm-auto'].join(' ')}>
             <div className="row NanumSquareB Regular">
               <div className="col">
-                <p style={{'padding-right': '20%'}}>몽크스낵 박스 안에는</p>
-                <p style={{'padding-left': '20%'}}>무엇이 들어가나요?</p>
+                <p style={{'paddingRight': '20%'}}>몽크스낵 박스 안에는</p>
+                <p style={{'paddingLeft': '20%'}}>무엇이 들어가나요?</p>
               </div>
             </div>
             <div className="row">

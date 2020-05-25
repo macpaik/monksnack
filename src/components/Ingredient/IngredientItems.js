@@ -15,8 +15,9 @@ const ingredients =[
 ];
 
 const IngredientItems = () => {
-  const igs = ingredients.map(ig => (
+  const igs = ingredients.map((ig, key) => (
     <IngredientItem
+      key={key}
       ingredientName={ig[0]}
       end={ig[1]}
       src={ig[2]}
